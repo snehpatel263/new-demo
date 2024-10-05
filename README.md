@@ -1,2 +1,2 @@
 # new-demo
-this is demo file
+This is demo file
